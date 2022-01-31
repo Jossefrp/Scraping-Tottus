@@ -1,0 +1,290 @@
+[
+    {
+        "nombre": "ZANAHORIA",
+        "precio": 2.39,
+        "contenido": "1 KG",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/42259102-UJbVGkIu.jpg"
+    },
+    {
+        "nombre": "ARVEJA AMERICANA",
+        "precio": 7.3,
+        "contenido": "kg",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-qhEsXE1Z.jpg"
+    },
+    {
+        "nombre": "CULANTRO",
+        "precio": 1.39,
+        "contenido": "1 und",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-Ndp-sOnD.jpg"
+    },
+    {
+        "nombre": "KION X KG",
+        "precio": 6.7,
+        "contenido": "kg",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-6THsPkak.jpg"
+    },
+    {
+        "nombre": "MELON COQUITO",
+        "precio": 3.4,
+        "contenido": "kg",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-XcryIxSn.jpg"
+    },
+    {
+        "nombre": "CAMOTE AMARILLO PROCESADO",
+        "precio": 2.29,
+        "contenido": "1 KG",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/42259093-Ql4z0nat.jpg"
+    },
+    {
+        "nombre": "HABAS VERDES",
+        "precio": 5,
+        "contenido": "x kg",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-jgMcR30k.jpg"
+    },
+    {
+        "nombre": "COLIFLOR X UN",
+        "precio": 6.9,
+        "contenido": "1 ud",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-hzG15jjy.jpg"
+    },
+    {
+        "nombre": "MARACUY\u00c1",
+        "precio": 4.2,
+        "contenido": "5 unds",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/42259096-dyeLeJHM.jpg"
+    },
+    {
+        "nombre": "NABO",
+        "precio": 1.69,
+        "contenido": "1 und",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-je4S5nSN.jpg"
+    },
+    {
+        "nombre": "MEMBRILLO",
+        "precio": 7.5,
+        "contenido": "x kg",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/10161905-BN4UaPE7.jpg"
+    },
+    {
+        "nombre": "CHIRIMOYA CUMBE",
+        "precio": 10.5,
+        "contenido": "800 gr",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/10162580-37uaGnyi.jpg"
+    },
+    {
+        "nombre": "ALBAHACA",
+        "precio": 4.1,
+        "contenido": "100 gr",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/40354149-lrAH-948.jpg"
+    },
+    {
+        "nombre": "CARAMBOLA",
+        "precio": 7.9,
+        "contenido": "x kg",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-cUuNWflJ.jpg"
+    },
+    {
+        "nombre": "AGUAYMANTO",
+        "precio": 4.3,
+        "contenido": "un",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/40955203-T9dPCUeq.jpg"
+    },
+    {
+        "nombre": "ACELGA TOTTUS X 300 GR",
+        "precio": 5,
+        "contenido": "300 gr",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/40354147-sLnBwpFA.jpg"
+    },
+    {
+        "nombre": "COCO",
+        "precio": 5.8,
+        "contenido": "1 und",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-QACAsoJ9.jpg"
+    },
+    {
+        "nombre": "COCONA",
+        "precio": 8,
+        "contenido": "1 kg",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-2wJirF5s.jpg"
+    },
+    {
+        "nombre": "MANI EN CASCARA X UN",
+        "precio": 6.25,
+        "contenido": "250 gr",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-2uqUMSFG.jpg"
+    },
+    {
+        "nombre": "OLLUCO",
+        "precio": 7.7,
+        "contenido": "x kg",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-sKvhr2_s.jpg"
+    },
+    {
+        "nombre": "BLUEBERRIE PREMIUM",
+        "precio": 5.7,
+        "contenido": "125 gr",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/41279659-5iudlzNZ.jpg"
+    },
+    {
+        "nombre": "ESPINACA",
+        "precio": 6.25,
+        "contenido": "400 gr",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/40354150-C0GOROjR.jpg"
+    },
+    {
+        "nombre": "SPROUTS GERMINADO DE BROCOLI X 100 GR",
+        "precio": 20.3,
+        "contenido": "100 gr",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-EC0sVkpe.jpg"
+    },
+    {
+        "nombre": "COCO EN TROZOS SOLEI X 130 G",
+        "precio": 4.6,
+        "contenido": "un",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/42518390-2DxhTaCQ.png"
+    },
+    {
+        "nombre": "UVA SWEET GLOBE (UVA VERDE SIN PEPA)",
+        "precio": 12.45,
+        "contenido": "un",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-QozJaHEI.jpg"
+    },
+    {
+        "nombre": "UVA JACK SALUTE (UVA ROJA SIN PEPA)",
+        "precio": 8.5,
+        "contenido": "un",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-pDVWkDtT.jpg"
+    },
+    {
+        "nombre": "DURAZNO EXTRA TOTTUS",
+        "precio": 6.3,
+        "contenido": "un",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/42407823-3n6_Oduz.jpg"
+    },
+    {
+        "nombre": "DURAZNO PARA DULCE TOTTUS",
+        "precio": 3.2,
+        "contenido": "un",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/42333424-74sH3lcF.jpg"
+    },
+    {
+        "nombre": "PUNTAS DE ESPARRAGO TOTTUS X 250 GR",
+        "precio": 14.25,
+        "contenido": "un",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/42518391-jL1ry2pf.jpg"
+    },
+    {
+        "nombre": "ESPARRAGO VERDE COCKTAIL TOTTUS X 200 GR",
+        "precio": 7.7,
+        "contenido": "un",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/42518392-Ur3muWK7.jpg"
+    },
+    {
+        "nombre": "ESPARRAGOS TOTTUS X 250 GR",
+        "precio": 6.9,
+        "contenido": "un",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/42518394-pyu4-sBe.jpg"
+    },
+    {
+        "nombre": "UVA AUTUM ROYAL (UVA ROJA SIN PEPA)",
+        "precio": 6.9,
+        "contenido": "un",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-15KzeEEI.jpg"
+    },
+    {
+        "nombre": "PI\u00d1A GOLDEN ",
+        "precio": 4.95,
+        "contenido": "kg",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/42519002-eupfnb_L.jpg"
+    },
+    {
+        "nombre": "ESPARRAGOS TOTTUS X 450 GR",
+        "precio": 11,
+        "contenido": "un",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/42518395--L7PgYSs.jpg"
+    },
+    {
+        "nombre": "BLUEBERRIE PREMIUM",
+        "precio": 17.5,
+        "contenido": "500 gr",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-Waw3shsC.jpg"
+    },
+    {
+        "nombre": "MIX EN BASTONES X 210 G",
+        "precio": 4.9,
+        "contenido": "210 gr",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-vMNTMFSV.jpg"
+    },
+    {
+        "nombre": "ESPINACA BABY DESHOJADA",
+        "precio": 6.05,
+        "contenido": "150 gr",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/41674257-KPRZzuUs.png"
+    },
+    {
+        "nombre": "ENSALADA PERSONAL",
+        "precio": 5.45,
+        "contenido": "140 gr",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-uZpdTvJX.jpg"
+    },
+    {
+        "nombre": "ENSALADA MIX CON ESPINACA TOTTUS X 150 GR",
+        "precio": 5.85,
+        "contenido": "150 gr",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-0mnly3Hq.jpg"
+    },
+    {
+        "nombre": "VAINITA ENTERA LISTA PARA MICROONDAS",
+        "precio": 5.7,
+        "contenido": "300 gr",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-JB1KVlSk.jpg"
+    },
+    {
+        "nombre": "APIO EN BASTONES TOTTUS X 190 G",
+        "precio": 4.2,
+        "contenido": "190 gr",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-UzaEPtLp.jpg"
+    },
+    {
+        "nombre": "ENSALADA MIX",
+        "precio": 5.4,
+        "contenido": "150 gr",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-N3kdhFe5.jpg"
+    },
+    {
+        "nombre": "ENSALADA DE PI\u00d1A SANDIA UVA",
+        "precio": 5.8,
+        "contenido": "un",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/41674690-ENnOyURM.jpg"
+    },
+    {
+        "nombre": "SOPA DE VERDURAS TOTTUS X 600 GR",
+        "precio": 8.85,
+        "contenido": "600 gr",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-OtTX0LRD.jpg"
+    },
+    {
+        "nombre": "ZANAHORIA MICROONDAS",
+        "precio": 5.4,
+        "contenido": "550 gr",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-WR68qvo1.jpg"
+    },
+    {
+        "nombre": "HABAS",
+        "precio": 7.35,
+        "contenido": "200 gr",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/img-JhRLegOp.jpg"
+    },
+    {
+        "nombre": "ENSALADA DE PI\u00d1A SANDIA PAPAYA",
+        "precio": 5.8,
+        "contenido": "un",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/41674688-YM6FCumL.jpg"
+    },
+    {
+        "nombre": "ESTOFADO DE POLLO TOTTUS X 200 GR",
+        "precio": 7.15,
+        "contenido": "200 gr",
+        "imagen": "https://e39a9f00db6c5bc097f9-75bc5dce1d64f93372e7c97ed35869cb.ssl.cf1.rackcdn.com/41351941-b33Fdp9Y.jpg"
+    }
+]
